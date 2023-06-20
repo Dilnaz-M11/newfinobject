@@ -1,0 +1,122 @@
+.sunsistem {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+#bush {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 530px 0 0 200px;
+
+}
+
+#bamboo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 360px 0 0 550px;
+}
+
+#cactus {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 380px 0 0 130px;
+}
+
+#chamomile {
+	 position: absolute;
+    top: 0;
+    left: 0;
+    margin: 330px 0 0 900px;
+}
+
+#palm {
+	 position: absolute;
+    top: 0;
+    left: 0;
+    margin: 530px 0 0 700px;
+}
+
+#reed {
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin: 400px 0 0 700px;
+}
+
+#tree {
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin: 300px 0 0 300px;
+}
+
+#baobab {
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin: 250px 0 0 400px;
+}
+
+#fir {
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin: 500px 0 0 300px;
+}
+
+#leaves {
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin: 80px 0 0 10px;
+}
+
+#lilies {
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin: 600px 0 0 550px;
+}
+
+#rose {
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin: 450px 0 0 500px;
+}
+
+#sunflower {
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin: 450px 0 0 800px;
+}
+
+#tulip {
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin: 600px 0 0 150px;
+}
+
+#wheat {
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin: 530px 0 0 900px;
+}
+
+#message {
+    position: absolute;
+    font-family: "Times New Roman", Times, serif;
+    background-color: black;
+    color: white;
+    font-size: 20pt;	
+    top: 0;
+    left: 0;
+    margin: 100px 0 0 320px;
+}
